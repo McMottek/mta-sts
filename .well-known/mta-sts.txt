@@ -1,5 +1,4 @@
-      version: STSv1
-      mode: enforce
-      mx: mail.obschinsky.de
-      mx: mx2f0e.netcup.net
-      max_age: 604800
+version: STSv1
+mode: testing
+mx: mx2f0e.netcup.net
+max_age: 604800
